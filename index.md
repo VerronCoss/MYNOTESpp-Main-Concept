@@ -1,4 +1,5 @@
 ## Welcome To MYNOTES++-Main-Concept Online Documentation,News Feed,and Blog!
+<title>MY NOTES++</title>
 <h1><tt>Downloads</tt></h1>
 <ol>
 <li><a href="https://github.com/VerronCoss/MYNOTESpp-Main-Concept/files/5364748/MYNOTES%2B%2B.REDv1.zip">Download MY NOTES++ REDv1(.zip)</a></li>

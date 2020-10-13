@@ -1,5 +1,5 @@
-## Welcome To MYNOTES++-Main-Concept Online Documentation,News Feed,and Blog!
-<title>MY NOTES++</title>
+## MY NOTES++
+<summary>ABOUT</summary><details>MY NOTES++ IS A APP DEVELOPED BY HARMAN SINGH ON 21 SEP 2020 AND UPLOADED ON GITHUB ON 12 OCT 2020.THIS APP IS DEVELOPED BY AUTHOR SO, THAT PEOPLE CAN WRITE NOTE(NOTHING SPECIAL) AND GET IT'S PDF AND ALSO HAVE POWER TO SEND IT TO THERE FREINDS!.</details>
 <h1><tt>Downloads</tt></h1>
 <ol>
 <li><a href="https://github.com/VerronCoss/MYNOTESpp-Main-Concept/files/5364748/MYNOTES%2B%2B.REDv1.zip">Download MY NOTES++ REDv1(.zip)</a></li>

@@ -21,4 +21,4 @@
 <h4><b>2020 ©Copyright.Harman Singh Production.All Rights Reserved</b></h4>
 <hr>
 <center><b><h3>CONTACT DEVELOPER</h3></b></center>
-<a href="harmansingh1969@yahoo.com">MAIL</a>
+<p><i>MAIL : harmansingh1969@yahoo.com</i></p>

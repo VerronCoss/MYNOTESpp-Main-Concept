@@ -14,9 +14,10 @@
 <h1>RESOURCES</h1>
 <ul>
 <li><a href="https://codepen.io/verroncoss/pen/MWeapgN">USE MY NOTES++ ONLINE</a></li>
+<li><a href="https://mynotes-pp-main.glitch.me">USE MY NOTES++ WITH GLITCH!</a></li>
   </ul>
 <hr>
-  <p>So,To Make It A Little Bit More Clear I Want To Tell You tide,Harman Singh,Verron Coss Are Same! My Real Name Is Harman Singh</p>
+  <p>So,To Make It A Little Bit More Clear I Want To Tell You tide,Harman Singh,Verron Coss and Harman Cyber Are Same! My Real Name Is Harman Singh</p>
 <hr>
 <h4><b>2020 ©Copyright.Harman Singh Production.All Rights Reserved</b></h4>
 <hr>

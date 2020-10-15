@@ -13,7 +13,7 @@
 <li><a href="https://sourceforge.net/projects/mynotespp-main-concept/">DOWNLOAD MY NOTES++ FROM SOURCEFORGE!</a>
 <h1>RESOURCES</h1>
 <ul>
-<li><a href="https://codepen.io/verroncoss/pen/MWeapgN">USE MY NOTES++ ONLINE</a></li>
+<li>REMOVED USE ONLINE FEUTURE BECAUSE OF LICENSING ISSUES WITH CODE PEN.I WILL SOON MAKE A ALTERNATIVE OR BETTER FEUTURE!</li>
 <li><a href="https://mynotes-pp-main.glitch.me">USE MY NOTES++ WITH GLITCH!</a></li>
   </ul>
 <hr>

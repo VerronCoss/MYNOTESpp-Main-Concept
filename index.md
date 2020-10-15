@@ -23,4 +23,4 @@
 <hr>
 <center><b><h3>CONTACT DEVELOPER</h3></b></center>
 <hr>
-<p><b><tt>MAIL HERE FOR ANY TECHNICAL ISSUES OR DEMAND WITH MY NOTES ++:harmansingh1969@yahoo.com</b></tt><p>
+<p><b><tt>MAIL HERE FOR ANY TECHNICAL ISSUES OR DEMAND WITH MY NOTES ++:harmansingh1969@yahoo.com</tt></b><p>

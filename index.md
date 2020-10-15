@@ -22,6 +22,5 @@
 <h4><b>2020 ©Copyright.Harman Singh Production.All Rights Reserved</b></h4>
 <hr>
 <center><b><h3>CONTACT DEVELOPER</h3></b></center>
-<p><i>MAIL : harmansingh1969@yahoo.com</i></p>
-<br><br>
-<p><b><tt>MAIL HERE FOR ANY TECHNICAL ISSUES OR DEMAND WITH MY NOTES ++:tide@users.sourceforge.net</b></tt><p>
+<hr>
+<p><b><tt>MAIL HERE FOR ANY TECHNICAL ISSUES OR DEMAND WITH MY NOTES ++:harmansingh1969@yahoo.com</b></tt><p>

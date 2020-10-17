@@ -2,7 +2,7 @@
 <summary>ABOUT</summary><details>MY NOTES++ IS A APP DEVELOPED BY HARMAN SINGH ON 21 SEP 2020 AND UPLOADED ON GITHUB ON 12 OCT 2020.THIS APP IS DEVELOPED BY AUTHOR SO, THAT PEOPLE CAN WRITE NOTE(NOTHING SPECIAL) AND GET IT'S PDF AND ALSO HAVE POWER TO SEND IT TO THERE FREINDS! AND IT IS ALSO FREE OF COST AND DON'T WANT A 3 OR 16GB RAM.IT WOULD RUN SMOOTH ON EVEN A 100 MB RAM! IT MERELY NEED 2-3KB DISK SPACE😏.</details>
 <h1><tt>Downloads</tt></h1>
 <ol>
-<li><a href="https://github.com/VerronCoss/MYNOTESpp-Main-Concept/files/5364748/MYNOTES%2B%2B.REDv1.zip">Download MY NOTES++ REDv1(Pre-release)(.zip)</a></li>
+<li><a href="https://github.com/VerronCoss/MYNOTESpp-Main-Concept/files/5395084/MYNOTES%2B%2B.REDv1.zip">Download MY NOTES++ REDv1(Pre-release)(.zip)</a></li>
  <li><a href="https://github.com/VerronCoss/MYNOTESpp-Main-Concept/files/5395078/MYNOTES%2B%2B.MAIN.CONCEPT.zip">Download MY NOTES++ Main Concept(Official)(.zip)</a></li>
 <li><a href="https://github.com/VerronCoss/MYNOTESpp-Main-Concept/files/5395076/MYNOTES%2B%2B.BLUEv1.zip">Download MY NOTES++ BLUEv1(Pre-release)(.zip)</a></li>
 </ol>

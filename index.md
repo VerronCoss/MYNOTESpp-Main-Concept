@@ -3,7 +3,7 @@
 <h1><tt>Downloads</tt></h1>
 <ol>
 <li><a href="https://github.com/VerronCoss/MYNOTESpp-Main-Concept/files/5364748/MYNOTES%2B%2B.REDv1.zip">Download MY NOTES++ REDv1(Pre-release)(.zip)</a></li>
- <li><a href="https://github.com/VerronCoss/MYNOTESpp-Main-Concept/archive/main.zip">Download MY NOTES++ Main Concept(Official)(.zip)</a></li>
+ <li><a href="https://github.com/VerronCoss/MYNOTESpp-Main-Concept/files/5395078/MYNOTES%2B%2B.MAIN.CONCEPT.zip">Download MY NOTES++ Main Concept(Official)(.zip)</a></li>
 <li><a href="https://github.com/VerronCoss/MYNOTESpp-Main-Concept/files/5370847/MYNOTES%2B%2B.BLUEv1.zip">Download MY NOTES++ BLUEv1(Pre-release)(.zip)</a></li>
 </ol>
 <h1>Sourceforge Downloads</h1>

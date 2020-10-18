@@ -27,7 +27,7 @@
 <h4><i>17 OCT 2020(AFTER 5 DAYS OF LAUNCH ON INTERNET):<ul><li> COMPLETED 100+ DOWNLOADS ! (SOURCEFORGE AND GITHUB)</li></ul></i></h4><hr>
 <h1>FAQ(FREQUENTLY ASKED QUESTIONS):</h1>
 <p><i>Q.1 [MY NOTES++ IS IN WHICH CATEGORY OF APPS?]</i></p>
-<h4><code>ANSWER:TEXT EDITOR WITH WEB-BASED UI</code></h4>
+<h4><code>ANSWER:TEXT EDITOR WITH WEB-BASED UI, SPECIALLY DEVELOPED FOR NOT TAKING.</code></h4>
 <h4><b>2020 ©Copyright.Harman Singh Production.All Rights Reserved</b></h4>
 <hr>
 <center><b><h3>CONTACT DEVELOPER</h3></b></center>

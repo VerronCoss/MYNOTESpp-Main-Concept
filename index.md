@@ -11,6 +11,7 @@
 <ul>
  <li><a href="https://github.com/VerronCoss/MYNOTESpp-Main-Concept/archive/main.zip">DOWNLOAD MY NOTES++(NEW AGEv1) FROM MAIN BRANCH</a></li>
  <li><a href="https://github.com/VerronCoss/MYNOTESpp-Main-Concept/files/5397388/MYNOTESpp-Main-Concept-main.zip">DOWNLOAD MYNOTES++(NEW AGEv1) FROM RELEASES</a></li>
+ <li><a href="https://github.com/VerronCoss/MYNOTESpp-Main-Concept/files/5395076/MYNOTES%2B%2B.BLUEv1.zip">DOWNLOAD MYNOTES++ BLUEv1</a></li>
  
 </ul>
 <h1>Sourceforge Downloads</h1>

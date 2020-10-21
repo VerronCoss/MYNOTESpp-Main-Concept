@@ -8,6 +8,9 @@
 </ul>
 <hr>
 <h1><tt>Downloads</tt></h1>
+<ul>
+ <li><a href="https://github.com/VerronCoss/MYNOTESpp-Main-Concept/archive/main.zip">DOWNLOAD MY NOTES++ FROM MAIN BRANCH</a></li>
+</ul>
 <h1>Sourceforge Downloads</h1>
 <summary>SOURCEFORGE?</summary>
 <details>SOURCEFORGE IS JUST LIKE APPSTORE OR PLAYSTORE,WHERE YOU CAN DOWNLOAD APPLICATIONS,WRITE & READ A REVIEW,SCREENSHOTS OF PROJECTS AND MUCH MORE,THAT'S WHY I PUTTED MY NOTES ++ ON SOURCE FORGE!</details>

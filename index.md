@@ -13,6 +13,7 @@
  <li><a href="https://github.com/VerronCoss/MYNOTESpp-Main-Concept/files/5397388/MYNOTESpp-Main-Concept-main.zip">DOWNLOAD MYNOTES++(NEW AGEv1) FROM RELEASES</a></li>
  <li><a href="https://github.com/VerronCoss/MYNOTESpp-Main-Concept/files/5395076/MYNOTES%2B%2B.BLUEv1.zip">DOWNLOAD MYNOTES++ BLUEv1</a></li>
  <li><a href="https://github.com/VerronCoss/MYNOTESpp-Main-Concept/files/5395084/MYNOTES%2B%2B.REDv1.zip">DOWNLOAD MYNOTES++ REDv1</a></li>
+ <li><a href="https://github.com/VerronCoss/MYNOTESpp-Main-Concept/files/5399362/MYNOTES%2B%2B.FIRST.LOOK.21.SEP.2020.zip">DOWNLOAD MYNOTES++ FIRST LOOK !</a></li>
  
 </ul>
 <h1>Sourceforge Downloads</h1>

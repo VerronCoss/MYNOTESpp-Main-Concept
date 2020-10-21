@@ -24,7 +24,6 @@
  </ul>
 <h1>RESOURCES</h1>
 <ul>
-<li>REMOVED USE ONLINE FEUTURE BECAUSE OF LICENSING ISSUES WITH CODE PEN.I WILL SOON MAKE A ALTERNATIVE OR BETTER FEUTURE!</li>
 <li><a href="https://mynotes-pp-main.glitch.me">USE MY NOTES++ WITH GLITCH!</a></li>
   </ul>
 <hr>
@@ -47,4 +46,4 @@
 <hr>
 <center><b><h3>CONTACT DEVELOPER</h3></b></center>
 <hr>
-<p><b><tt>MAIL HERE FOR ANY TECHNICAL ISSUES OR DEMAND WITH MY NOTES ++:harmansingh1969@yahoo.com</tt></b><p>
+<p><b><tt>MAIL HERE FOR ANY TECHNICAL ISSUES OR DEMAND WITH MY NOTES ++:<a href="mailto:harmansingh1969@yahoo.com">💾</a></tt></b><p>

@@ -8,11 +8,6 @@
 </ul>
 <hr>
 <h1><tt>Downloads</tt></h1>
-<ul>
-<li><a href="https://github.com/VerronCoss/MYNOTESpp-Main-Concept/files/5395084/MYNOTES%2B%2B.REDv1.zip">Download MY NOTES++ REDv1(Pre-release)(.zip)</a></li>
-<li><a href="https://github.com/VerronCoss/MYNOTESpp-Main-Concept/files/5395078/MYNOTES%2B%2B.MAIN.CONCEPT.zip">Download MY NOTES++ Main Concept(Official)(.zip)</a></li>
-<li><a href="https://github.com/VerronCoss/MYNOTESpp-Main-Concept/files/5395076/MYNOTES%2B%2B.BLUEv1.zip">Download MY NOTES++ BLUEv1(Pre-release)(.zip)</a></li>
-</ul>
 <h1>Sourceforge Downloads</h1>
 <summary>SOURCEFORGE?</summary>
 <details>SOURCEFORGE IS JUST LIKE APPSTORE OR PLAYSTORE,WHERE YOU CAN DOWNLOAD APPLICATIONS,WRITE & READ A REVIEW,SCREENSHOTS OF PROJECTS AND MUCH MORE,THAT'S WHY I PUTTED MY NOTES ++ ON SOURCE FORGE!</details>

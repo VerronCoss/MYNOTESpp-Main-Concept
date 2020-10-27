@@ -47,3 +47,7 @@
 <center><b><h3>CONTACT DEVELOPER</h3></b></center>
 <hr>
 <p><b><tt>MAIL HERE FOR ANY TECHNICAL ISSUES OR DEMAND WITH MY NOTES ++:<a href="mailto:harmansingh1969@yahoo.com">💾</a></tt></b><p>
+<hr>
+<center><a href="https://dev.to/harmansingh">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Harman Singh's DEV Profile" height="50" width="50">
+</a></center>

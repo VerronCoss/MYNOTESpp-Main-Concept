@@ -8,7 +8,6 @@
   <p><b>COTRIBUTE TO MY NOTES++,I WILL ACCEPT YOUR PR(PULL REQUEST),IF YOUR CHANGES MAKE SOFTWARE BETTER!</b></p>
 <hr>
 <center>
-MY DEV PROFILE
 <a href="https://dev.to/harmansingh">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Harman Singh's DEV Profile" height="50" width="50">
 </a></center>

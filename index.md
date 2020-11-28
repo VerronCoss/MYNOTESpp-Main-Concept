@@ -27,8 +27,6 @@
 <li><a href="https://mynotes-pp-main.glitch.me">USE MY NOTES++ WITH GLITCH!</a></li>
   </ul>
 <hr>
-  <p>So,To Make It A Little Bit More Clear I Want To Tell You tide,Harman Singh,Verron Coss and Harman Cyber Are Same! My Real Name Is Harman Singh</p>
-<hr>
 <h3><tt>REVIEW MY NOTES++!</tt></h3>
 <p><b>GIVE MY NOTES++ COMMENTS,LIKES,REVIEWS...IT WILL HELP ME TO MAKE THE SOFTWARE MORE BETTER!💻🏆</b></p>
 <h1>FAQ(FREQUENTLY ASKED QUESTIONS):</h1>
